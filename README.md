@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,I'm+Xlqmu;A+student+who+enjoys+learning+new+technologies&duration=6000&vCenter=true&pause=2)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,I'm+Xlqmu&duration=6000&vCenter=true&pause=2)
 
 <div align="center"> <img src="https://profile-counter.glitch.me/Xlqmu/count.svg" /> </div>
 
