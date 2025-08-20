@@ -1,6 +1,5 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,I'm+Xlqmu&duration=6000&vCenter=true&pause=2)
 
-<div align="center"> <img src="https://profile-counter.glitch.me/Xlqmu/count.svg" /> </div>
 
 
 <p align="center">
