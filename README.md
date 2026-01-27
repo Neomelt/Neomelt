@@ -1,14 +1,11 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,I'm+Neomelt&duration=6000&vCenter=true&pause=2)
-
-
-
 <p align="center">
   <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
   <br><br />
   <samp>
-    😆 Hey! Welcome to my profile
+    A student developer passionate about technology and creation, currently exploring the area of robotics development.
     <br />
-    <br />🍉 I hope my project could help you.  🌱
+    <br />I hope my project could help you.
     <br />
     <br />
   </samp>
