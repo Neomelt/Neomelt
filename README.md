@@ -18,5 +18,3 @@
 <br />
 
 [![Neomelt's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Neomelt&theme=high-contrast)](https://github.com/Neomelt/github-readme-activity-graph)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Neomelt)
