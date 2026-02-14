@@ -10,8 +10,22 @@
     <br />
   </samp>
 
-| <a> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Neomelt&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="wangyang0210's github stats" /> </a> | <a> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neomelt&layout=compact&theme=buefy&hide_border=true" /> </a> | 
-| ------------- | ------------- |
+<div>
+    <h3>
+        Weekly Code Stats
+    </h3>
+</div>
+<div>
+   <img src="https://stats.amto.cc/api/wakatime?username=Neomelt&hide_border=true&theme=buefy&langs_count=5">
+</div>
+<div>
+    <h3>
+        Github Stats
+    </h3>
+</div>
+<div>
+    <img src="https://stats.amto.cc/api?username=Neomelt&show_icons=true&hide_border=true&theme=buefy">
+</div>
 
 </p>
 
