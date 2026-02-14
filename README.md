@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Algorithm+Lead+@+Aurora-UJS+(25-26);Building+PulseScope;Robotics+%26+Deep+Learning;C%2B%2B+%2F+Rust+%2F+ROS+2" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Algorithm+Lead+@+Aurora-UJS+(25-26);Building+Robotics+%26+Deep+Learning;C%2B%2B+%2F+Rust+%2F+ROS+2" alt="Typing SVG" />
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=Neomelt.Neomelt&left_color=black&right_color=0E75B6&symbol=github&theme=dark" alt="Visitor Badge"/>
 
