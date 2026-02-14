@@ -12,14 +12,6 @@
 
 <div>
     <h3>
-        Weekly Code Stats
-    </h3>
-</div>
-<div>
-   <img src="https://stats.amto.cc/api/wakatime?username=Neomelt&hide_border=true&theme=buefy&langs_count=5">
-</div>
-<div>
-    <h3>
         Github Stats
     </h3>
 </div>
