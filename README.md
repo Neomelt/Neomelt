@@ -73,5 +73,5 @@
 
 
 <p align="center">
-  "Stay hungry, stay foolish. And keep coding for robots."
+  "Keep looking, don't settle."
 </p>
