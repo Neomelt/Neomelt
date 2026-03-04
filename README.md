@@ -40,6 +40,7 @@
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![OpenClaw](https://img.shields.io/badge/OpenClaw-111111?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
 
