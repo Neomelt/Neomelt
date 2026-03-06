@@ -13,6 +13,7 @@
 - ⚔ **Team**: Algorithm Team Leader @ **Aurora-UJS** (RoboMaster **'25-'26 Season**)
 - 🛠 **Focus**: Robotics Navigation, TensorRT-accelerated CV, and High-performance System Tools.
 - ✍️ **Blog**: [neomelt.cloud](https://neomelt.cloud)
+- 🌐 Homepage: [neomelt.cloud](https://neomelt.github.io/)
 
 ---
 
