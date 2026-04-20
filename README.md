@@ -29,7 +29,6 @@
 #### 🤖 Robotics, Sim & Decision
 ![ROS2](https://img.shields.io/badge/ROS_2-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![Gazebo](https://img.shields.io/badge/Gazebo-FFAB00?style=for-the-badge&logo=gazebo&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black)
 ![Bevy](https://img.shields.io/badge/Bevy_Engine-232323?style=for-the-badge&logo=rust&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
