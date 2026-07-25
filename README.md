@@ -73,7 +73,9 @@
   <img src="https://stats.amto.cc/api?username=Neomelt&show_icons=true&hide_border=true&theme=buefy" alt="Neomelt's GitHub stats" />
 </div>
 
-[![Neomelt's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Neomelt&theme=high-contrast)](https://github.com/Neomelt/github-readme-activity-graph)
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Neomelt&theme=high-contrast" alt="Neomelt's contribution graph" />
+</div>
 
 ---
 
