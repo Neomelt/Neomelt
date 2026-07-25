@@ -20,7 +20,7 @@
 
 **Robotics — navigation & simulation**
 
-- **[sentry_nav_26](https://github.com/Aurora-UJS/sentry_nav_26)** — Self-built navigation stack for a RoboMaster sentry robot: Point-LIO odometry, sliding-window ESDF mapping, JPS global search, kinodynamic A\* front-end, MINCO trajectory optimization, and a 50 Hz MPC tracker. Built to replace a Nav2-based first generation that struggled with trajectory smoothness on an omnidirectional chassis.
+- **[sentry_nav_26](https://github.com/Aurora-UJS/sentry_nav_26)** — Self-built navigation stack for a RoboMaster sentry robot: Point-LIO odometry, sliding-window ESDF mapping, JPS global search, kinodynamic A\* front-end, MINCO trajectory optimization, and a 50 Hz MPC tracker. Built to replace a Nav2-based first generation that kept getting stuck in narrow corridors, ramps and curb edges.
 - **[rm_sim_26](https://github.com/Neomelt/rm_sim_26)** — ROS 2 Jazzy + Gazebo Harmonic simulation for RoboMaster robots: mecanum chassis and two-axis gimbal models, IMU noise modeling, and Livox Mid-360 point cloud via either RGL (GPU-accelerated) or built-in `gpu_lidar`, switching automatically by available hardware.
 
 **Tooling — observability & developer experience**
