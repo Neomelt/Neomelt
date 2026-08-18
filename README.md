@@ -1,9 +1,7 @@
 # Hi there, I'm Neomelt 👋
 
 <div align="center">
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0E75B6&center=true&vCenter=true&width=560&lines=Algorithm+Lead+%40+Aurora-UJS+(RoboMaster);Autonomous+Navigation+%2F+Planning+%2F+Control;C%2B%2B+%2F+Rust+%2F+ROS+2" alt="Typing SVG" />
-
 </div>
 
 ### 🤖 About Me
@@ -70,7 +68,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://stats.amto.cc/api?username=Neomelt&show_icons=true&hide_border=true&theme=buefy" alt="Neomelt's GitHub stats" />
+  <img height="165" src="https://stats.amto.cc/api?username=Neomelt&show_icons=true&hide_border=true&theme=buefy" alt="Neomelt's GitHub stats" />
+  <img height="165" src="https://stats.amto.cc/api/top-langs/?username=Neomelt&layout=compact&hide_border=true&theme=buefy&langs_count=8&hide=css,scss,html,shell" alt="Neomelt's most used languages" />
 </div>
 
 <div align="center">
